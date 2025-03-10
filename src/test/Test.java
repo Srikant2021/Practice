@@ -10,7 +10,7 @@ public class Test {
 		//fkfi
 		//merging.........
 		//agina////////////
-		hello srikant
+//		hello srikant
 	}
 
 }
